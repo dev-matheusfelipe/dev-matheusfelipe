@@ -29,35 +29,8 @@
     <h2 align="center">Estudando</h2>
     <p align="center">👑 Atualmente estou estudando na Grau Técnico! ✨</p>
     <img height="180" width="180" src="https://i.imgur.com/B8BXlxc.png">
-  </div> 
-  
-  <div>
-    <h2 align="center">Idiomas</h2>
-    <p align="center">Meu perfil poder ser visto por esses idiomas!</p>
-    <p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
-    ·
-    <a href="/docs/readme_cn.md">简体中文</a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_de.md">Deutsch</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    .
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    .
-    <a href="/docs/readme_np.md">नेपाली</a>
-    .
-    <a href="/docs/readme_tr.md">Türkçe</a>
-  </p>
   </div>
+  <img align="center" src="https://komarev.com/ghpvc/?username=matheusfellype2016&label=Profile%20views&color=0e75b6&style=flat" alt="matheusfellype2016" />
   
 ---
   
