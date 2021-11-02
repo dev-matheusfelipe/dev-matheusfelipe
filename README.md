@@ -37,5 +37,9 @@
   <p>Obrigado, por visitar o meu perfil! :heart:</p>
   <p>Thanks, for visiting my profile! :heart:</p>
   </div>
-  
+
+<div> 
+ 
   ![Snake animation](https://github.com/MatheusFellype2016/MatheusFellype2016/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
