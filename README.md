@@ -11,7 +11,6 @@
   <img align="center" alt="Mat-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Mat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mat-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Mat-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Mat-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
@@ -29,8 +28,19 @@
     <p align="center">👑 Atualmente estou estudando na Grau Técnico! ✨</p>
     <img height="180" width="180" src="https://i.imgur.com/B8BXlxc.png">
   </div>
-  <img align="center" src="https://komarev.com/ghpvc/?username=matheusfellype2016&label=Profile%20views&color=0e75b6&style=flat" alt="matheusfellype2016" />
-  
+  <div style="display: inline_block" align="center"><br>  
+    <img alt="Codacy grade" src="https://komarev.com/ghpvc/?username=matheusfellype2016&label=Profile%20views&color=0e75b6&style=flat" alt="matheusfellype2016" />
+    <img alt="Codacy grade" src="https://img.shields.io/badge/HTML-orange">
+    <img alt="Codacy grade" src="https://img.shields.io/badge/CSS-blue">
+    <img alt="Codacy grade" src="https://img.shields.io/badge/Bootstrap-blueviolet">
+    <img alt="Codacy grade" src="https://img.shields.io/badge/JavaScript-yellow">
+    <img alt="Codacy grade" src="https://img.shields.io/badge/Python-blue">
+    <img alt="Codacy grade" src="https://img.shields.io/badge/Liguage C-lightgrey">
+    <img alt="Codacy grade" src="https://img.shields.io/badge/Java-brightgreen">
+    <img alt="Codacy grade" src="https://img.shields.io/badge/Photoshop-blue">
+    <img alt="Codacy grade" src="https://img.shields.io/badge/Figma-important">
+  </div>
+
 ---
   
 <div align="center">
