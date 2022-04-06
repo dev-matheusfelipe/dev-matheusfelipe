@@ -1,4 +1,4 @@
-## Olá! Eu sou o Matheus Fellype, estudante de programação
+## Olá! Eu sou o Matheus Fellype, estudante de T.I
 
 <div align="center">
   <a href="https://github.com/MatheusFellype2016">
