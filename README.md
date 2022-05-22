@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Matheus Fellype, estudante de T.I
 
 <div align="center">
-  <a href="https://github.com/MatheusFellype2016">
+  <a href="https://github.com/dev-matheusfelipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFellype2016&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFellype2016&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -29,7 +29,7 @@
     <img height="180" width="180" src="https://i.imgur.com/B8BXlxc.png">
   </div>
   <div style="display: inline_block" align="center"><br>  
-    <img alt="Codacy grade" src="https://komarev.com/ghpvc/?username=matheusfellype2016&label=Profile%20views&color=0e75b6&style=flat" alt="matheusfellype2016" />
+    <img alt="Codacy grade" src="https://komarev.com/ghpvc/?username=dev-matheusfelipe&label=Profile%20views&color=0e75b6&style=flat" alt="dev-matheusfelipe" />
     <img alt="Codacy grade" src="https://img.shields.io/badge/HTML-orange">
     <img alt="Codacy grade" src="https://img.shields.io/badge/CSS-blue">
     <img alt="Codacy grade" src="https://img.shields.io/badge/Bootstrap-blueviolet">
@@ -50,6 +50,6 @@
 
 <div> 
  
-  ![Snake animation](https://github.com/MatheusFellype2016/MatheusFellype2016/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dev-matheusfelipe/dev-matheusfelipe/blob/output/github-contribution-grid-snake.svg)
  
 </div>
