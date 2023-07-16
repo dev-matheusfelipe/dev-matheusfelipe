@@ -25,7 +25,7 @@
   
   <div align="center">
     <h2 align="center">Estudando</h2>
-    <p align="center">👑 Atualmente estou estudando na Grau Técnico! ✨</p>
+    <p align="center">👑 Atualmente estou estudando no Grau Técnico! ✨</p>
     <img height="180" width="180" src="https://i.imgur.com/B8BXlxc.png">
   </div>
   <div style="display: inline_block" align="center"><br>  
