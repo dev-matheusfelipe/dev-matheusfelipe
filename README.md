@@ -25,8 +25,9 @@
   
   <div align="center">
     <h2 align="center">Estudando</h2>
-    <p align="center">👑 Atualmente estou estudando no Grau Técnico! ✨</p>
-    <img height="180" width="180" src="https://i.imgur.com/B8BXlxc.png">
+    <p align="center">👑 Atualmente estou fazendo Graduação da Estácio e Gran Faculdade ✨</p>
+      <p align="center">Estácio: Desenvolvimento Full Stack</p>
+      <p align="center">GranFaculdade: Gestão de TI</p>
   </div>
   <div style="display: inline_block" align="center"><br>  
     <img alt="Codacy grade" src="https://komarev.com/ghpvc/?username=dev-matheusfelipe&label=Profile%20views&color=0e75b6&style=flat" alt="dev-matheusfelipe" />
