@@ -25,7 +25,7 @@
   
   <div align="center">
     <h2 align="center">Estudando</h2>
-    <p align="center">👑 Atualmente estou fazendo Graduação da Estácio e Gran Faculdade ✨</p>
+    <p align="center">👑 Atualmente estou fazendo Graduação na Estácio e Gran Faculdade ✨</p>
       <p align="center">Estácio: Desenvolvimento Full Stack</p>
       <p align="center">GranFaculdade: Gestão de TI</p>
   </div>
