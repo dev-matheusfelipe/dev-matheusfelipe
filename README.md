@@ -1,13 +1,6 @@
 ## 👋 Olá! Eu sou o **Matheus Felipe**
 ### 💻 Estudante de Tecnologia da Informação | Desenvolvedor em formação
 
-<div align="center">
-  <a href="https://github.com/dev-matheusfelipe">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-matheusfelipe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-matheusfelipe&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
