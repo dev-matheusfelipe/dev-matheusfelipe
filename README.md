@@ -96,7 +96,7 @@ Status: In development 🚧
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-matheusfelipe&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-matheusfelipe&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
