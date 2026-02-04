@@ -1,72 +1,111 @@
-## 👋 Olá! Eu sou o **Matheus Felipe**
-### 💻 Estudante de Tecnologia da Informação | Desenvolvedor em formação
+<h1 align="center">Hi 👋, I'm Matheus Felipe</h1>
+<h3 align="center">FrontEnd Developer | React • React Native • Expo • UI Engineer</h3>
+
+<p align="center">
+Building real products with modern UI, mobile apps and desktop applications.
+</p>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 About Me
 
-<div align="center">
-  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Photoshop" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img alt="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="C" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
+I'm a FrontEnd Developer focused on **Web, Mobile and Desktop applications**.
 
----
+I enjoy building complete products — from UI/UX and component architecture to API integration and business logic.
 
-## 🌐 Redes Sociais
+Currently working on two main projects:
 
-<div align="center">
-  <a href="https://www.instagram.com/m.f_matheusfelipe/" target="_blank">
-    <img height="35" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/matheus-felipe-040a30140/" target="_blank">
-    <img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+🧠 **Todas IA** — Multi AI application (React Native + Expo + Node.js)  
+🚛 **Truck Simulator / Truck Manager** — Management game (.NET / XAML)
+
+I’m highly product-oriented, autodidact and passionate about clean UI and scalable systems.
 
 ---
 
-## 🎓 Estudando Atualmente
+## 🛠 Tech Stack
 
-<div align="center">
+### FrontEnd / Mobile
+- React
+- React Native
+- Expo
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Responsive Layout
+- Component Architecture
+- API Consumption
 
-### 📘 Formação Superior
-- 👑 **Estácio** — Desenvolvimento Full Stack  
-- 🎓 **Gran Faculdade** — Gestão de TI  
+### Back-end / Integration
+- Node.js
+- REST APIs
+- JSON
 
-</div>
+### Desktop
+- .NET 8
+- WPF / XAML
+- MVVM
+- Custom Design System
+- Dark / Light Mode
+
+### Tools
+- Git / GitHub
+- VS Code
+- Visual Studio
+- npm
+- Figma (UI reference)
 
 ---
 
-## 📊 Estatísticas do Perfil
+## 📦 Featured Projects
 
-<div align="center">
+### 🧠 Todas IA  
+Multi AI application focused on modern UI and conversation experience.
 
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=dev-matheusfelipe&label=Profile%20views&color=0e75b6&style=flat" />
-<br>
+**Features**
+- Chat system  
+- Dark / Light Mode  
+- Modular UI  
+- API Integration  
+- Multi-AI ready  
 
-</div>
+**Stack**
+React Native • Expo • Node.js  
 
----
-
-## 🐍 Snake Contributions
-
-<div align="center">
-  
-![Snake animation](https://github.com/dev-matheusfelipe/dev-matheusfelipe/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+Status: In development 🚧
 
 ---
 
-<div align="center">
-  <p>Obrigado por visitar meu perfil! ❤️</p>
-  <p>Thanks for visiting my profile! ❤️</p>
-</div>
+### 🚛 Truck Simulator
+Transport and logistics management simulator.
 
+**Features**
+- Company system  
+- Vehicle garage  
+- Economy (money, fuel, CO₂)  
+- XP progression  
+- Missions & rewards  
+- Custom UI  
+
+**Stack**
+C# • .NET • XAML  
+
+Status: In development 🚧
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-matheusfelipe&show_icons=true&theme=dark" />
+</p>
+
+---
+
+## 🌐 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/matheus-felipe  
+- GitHub: https://github.com/dev-matheusfelipe  
+
+---
+
+⭐ Always building. Always learning.
