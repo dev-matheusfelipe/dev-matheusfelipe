@@ -16,7 +16,7 @@ I enjoy building complete products — from UI/UX and component architecture to 
 Currently working on two main projects:
 
 🧠 **Todas IA** — Multi AI application (React Native + Expo + Node.js)  
-🚛 **Truck Simulator / Truck Manager** — Management game (.NET / XAML)
+🚛 **Cargo Empire** — Management game (React Native + Vite)
 
 I’m highly product-oriented, autodidact and passionate about clean UI and scalable systems.
 
