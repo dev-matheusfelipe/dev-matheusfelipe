@@ -84,7 +84,7 @@ Product-focused platform to showcase systems, projects and execution.
 </p>
 
 <p>
-<a href="https://matheusfelipe.dev.br"><strong>Visit project →</strong></a>
+<a href="https://matheusfelipe.dev.br"><strong>View → </strong></a>
 </p>
 
 </td>
@@ -102,7 +102,7 @@ Digital ecosystem for building platforms, SaaS products and scalable systems.
 </p>
 
 <p>
-<a href="https://rizzer.com.br"><strong>Visit project →</strong></a>
+<a href="https://rizzer.com.br"><strong>View → </strong></a>
 </p>
 
 </td>
@@ -122,7 +122,7 @@ Networking platform focused on relevance, context and meaningful connections.
 </p>
 
 <p>
-<a href="https://rizzer-link-up.vercel.app"><strong>Visit project →</strong></a>
+<a href="https://rizzer-link-up.vercel.app"><strong>View → </strong></a>
 </p>
 
 </td>
@@ -140,7 +140,7 @@ Platform for managing opportunities, workflows and structured operations.
 </p>
 
 <p>
-<a href="https://rizzer-workspaceti.web.app"><strong>Visit project →</strong></a>
+<a href="https://rizzer-workspaceti.web.app"><strong>View → </strong></a>
 </p>
 
 </td>
