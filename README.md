@@ -1,154 +1,142 @@
-<h1 align="center">Hi 👋, I'm Matheus Felipe</h1>
-<h3 align="center">FrontEnd Developer | React • React Native • Expo • UI Engineer</h3>
+<div align="center">
 
-<p align="center">
-Building real products with modern UI, mobile apps and desktop applications.
+<img src="https://matheusfelipe.dev.br/images/Logo_Rizzer_dark.png" width="84" alt="Rizzer Studio" />
+
+# Matheus Felipe
+
+### Product-focused Full Stack Developer building scalable platforms and real systems.
+
+Creating digital products through **Rizzer Studio**.
+
+<p>
+  <a href="https://matheusfelipe.dev.br">Portfolio</a>
+  ·
+  <a href="https://rizzer.com.br">Rizzer Studio</a>
+  ·
+  <a href="https://linkedin.com/in/matheusfelipetp">LinkedIn</a>
+  ·
+  <a href="mailto:matheus.f.basilio@gmail.com">Email</a>
 </p>
 
----
-
-## 🚀 About Me
-
-I'm a FrontEnd Developer focused on **Web, Mobile and Desktop applications**.
-
-I enjoy building complete products — from UI/UX and component architecture to API integration and business logic.
-
-Currently working on two main projects:
-
-🧠 **Todas IA** — Multi AI application (React Native + Expo + Node.js)  
-🚛 **Cargo Empire** — Management game (React Native + Vite)
-
-I’m highly product-oriented, autodidact and passionate about clean UI and scalable systems.
-
----
-
-## 🛠 Tech Stack
-
-### FrontEnd / Mobile
-- React
-- React Native
-- Expo
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Responsive Layout
-- Component Architecture
-- API Consumption
-
-### Back-end / Integration
-- Node.js
-- REST APIs
-- JSON
-
-### Desktop
-- .NET 8
-- WPF / XAML
-- MVVM
-- Custom Design System
-- Dark / Light Mode
-
-### Tools
-- Git / GitHub
-- VS Code
-- Visual Studio
-- npm
-- Figma (UI reference)
-
----
-
-## 📦 Featured Projects
-
-### 🧠 Todas IA  
-Multi AI application focused on modern UI and conversation experience.
-
-**Features**
-- Chat system  
-- Dark / Light Mode  
-- Modular UI  
-- API Integration  
-- Multi-AI ready  
-
-**Stack**
-React Native • Expo • Node.js  
-
-Status: In development 🚧
-
----
-
-### 🚛 Truck Simulator
-Transport and logistics management simulator.
-
-**Features**
-- Company system  
-- Vehicle garage  
-- Economy (money, fuel, CO₂)  
-- XP progression  
-- Missions & rewards  
-- Custom UI  
-
-**Stack**
-C# • .NET • XAML  
-
-Status: In development 🚧
-
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42"/>
-  </a>
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original-wordmark.svg" alt="expo" width="42" height="42"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/>
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-0b0f19?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-0b0f19?style=flat&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Node.js-0b0f19?style=flat&logo=node.js&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/Prisma-0b0f19?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-0b0f19?style=flat&logo=cloudflare&logoColor=F38020" />
 </p>
 
----
+</div>
 
-## 🌐 Connect with me
+<br>
 
-<p align="left">
-  <!-- TODO: replace links if needed -->
-  <a href="https://linkedin.com/in/dev-matheusfelipe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-matheusfelipe&layout=compact&theme=transparent&hide_border=true&title_color=8b5cf6&text_color=d1d5db" />
+  <img height="165" src="https://streak-stats.demolab.com?user=dev-matheusfelipe&theme=transparent&hide_border=true&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&sideNums=d1d5db&currStreakNum=ffffff&dates=9ca3af&sideLabels=d1d5db" />
+</div>
+
+<br>
+<br>
+
+<div align="center">
+
+## Product, systems and execution working as one.
+
+I design and build applications with strong product thinking, clean architecture and real-world usability.
+
+</div>
+
+<br>
+<br>
+
+## Core Stack
+
+<div align="center">
+
+**Frontend**  
+Next.js · React · TypeScript · Tailwind CSS
+
+**Backend**  
+Node.js · Fastify · API Architecture · Typed Validation
+
+**Data & Infra**  
+PostgreSQL · MySQL · Prisma ORM · Redis · Vercel · Cloudflare
+
+</div>
+
+<br>
+<br>
+
+## Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://matheusfelipe.dev.br">
+    <img src="https://raw.githubusercontent.com/dev-matheusfelipe/dev-matheusfelipe/main/assets/preview-portfolio.png" alt="Portfolio Preview" />
   </a>
-  <a href="https://instagram.com/matheus.f.basilio" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <br><br>
+  <strong>Portfolio</strong>
+  <br>
+  Product-focused personal platform designed to present systems, projects and technical execution.
+  <br><br>
+  <a href="https://matheusfelipe.dev.br"><strong>Visit project →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://rizzer.com.br">
+    <img src="https://raw.githubusercontent.com/dev-matheusfelipe/dev-matheusfelipe/main/assets/preview-rizzer-studio.png" alt="Rizzer Studio Preview" />
   </a>
-  <!-- If you don't have Dev.to/Twitter, remove these -->
-  <a href="https://twitter.com/devmatheusf" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter/X" height="30" width="40" />
+  <br><br>
+  <strong>Rizzer Studio</strong>
+  <br>
+  Digital ecosystem for building platforms, SaaS products and scalable systems.
+  <br><br>
+  <a href="https://rizzer.com.br"><strong>Visit project →</strong></a>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+  <a href="https://rizzer-link-up.vercel.app">
+    <img src="https://raw.githubusercontent.com/dev-matheusfelipe/dev-matheusfelipe/main/assets/preview-linkup.png" alt="LinkUp Preview" />
   </a>
-</p>
+  <br><br>
+  <strong>LinkUp</strong>
+  <br>
+  Networking platform designed around relevance, context and meaningful connections.
+  <br><br>
+  <a href="https://rizzer-link-up.vercel.app"><strong>Visit project →</strong></a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://rizzer-workspaceti.web.app">
+    <img src="https://raw.githubusercontent.com/dev-matheusfelipe/dev-matheusfelipe/main/assets/preview-workspace-ti.png" alt="Workspace TI Preview" />
+  </a>
+  <br><br>
+  <strong>Workspace TI</strong>
+  <br>
+  Platform focused on opportunities, workflows and structured management.
+  <br><br>
+  <a href="https://rizzer-workspaceti.web.app"><strong>Visit project →</strong></a>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-⭐ Always building. Always learning.
+## What I Build
+
+<div align="center">
+
+Platforms · SaaS Products · Backend Systems · Intelligent Workflows
+
+</div>
+
+<br>
+
+## Contact
+
+<div align="center">
+
+[LinkedIn](https://linkedin.com/in/matheusfelipetp) · [GitHub](https://github.com/dev-matheusfelipe) · [Email](mailto:matheus.f.basilio@gmail.com)
+
+</div>
