@@ -72,54 +72,85 @@ PostgreSQL · MySQL · Prisma ORM · Redis · Vercel · Cloudflare
 <table>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://matheusfelipe.dev.br">
-    <img src="https://raw.githubusercontent.com/dev-matheusfelipe/dev-matheusfelipe/main/assets/preview-portfolio.png" alt="Portfolio Preview" />
-  </a>
-  <br><br>
-  <strong>Portfolio</strong>
-  <br>
-  Product-focused personal platform designed to present systems, projects and technical execution.
-  <br><br>
-  <a href="https://matheusfelipe.dev.br"><strong>Visit project →</strong></a>
+
+<a href="https://matheusfelipe.dev.br">
+  <img src="https://raw.githubusercontent.com/dev-matheusfelipe/dev-matheusfelipe/main/assets/preview-portfolio.png" style="border-radius: 12px; border: 1px solid #1f2937;" alt="Portfolio Preview" />
+</a>
+
+<p><strong style="font-size: 16px;">Portfolio</strong></p>
+
+<p>
+Product-focused platform to showcase systems, projects and execution.
+</p>
+
+<p>
+<a href="https://matheusfelipe.dev.br"><strong>Visit project →</strong></a>
+</p>
+
 </td>
+
 <td width="50%" valign="top">
-  <a href="https://rizzer.com.br">
-    <img src="https://raw.githubusercontent.com/dev-matheusfelipe/dev-matheusfelipe/main/assets/preview-rizzer-studio.png" alt="Rizzer Studio Preview" />
-  </a>
-  <br><br>
-  <strong>Rizzer Studio</strong>
-  <br>
-  Digital ecosystem for building platforms, SaaS products and scalable systems.
-  <br><br>
-  <a href="https://rizzer.com.br"><strong>Visit project →</strong></a>
+
+<a href="https://rizzer.com.br">
+  <img src="https://raw.githubusercontent.com/dev-matheusfelipe/dev-matheusfelipe/main/assets/preview-rizzer-studio.png" style="border-radius: 12px; border: 1px solid #1f2937;" alt="Rizzer Studio Preview" />
+</a>
+
+<p><strong style="font-size: 16px;">Rizzer Studio</strong></p>
+
+<p>
+Digital ecosystem for building platforms, SaaS products and scalable systems.
+</p>
+
+<p>
+<a href="https://rizzer.com.br"><strong>Visit project →</strong></a>
+</p>
+
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
-  <a href="https://rizzer-link-up.vercel.app">
-    <img src="https://raw.githubusercontent.com/dev-matheusfelipe/dev-matheusfelipe/main/assets/preview-linkup.png" alt="LinkUp Preview" />
-  </a>
-  <br><br>
-  <strong>LinkUp</strong>
-  <br>
-  Networking platform designed around relevance, context and meaningful connections.
-  <br><br>
-  <a href="https://rizzer-link-up.vercel.app"><strong>Visit project →</strong></a>
+
+<a href="https://rizzer-link-up.vercel.app">
+  <img src="https://raw.githubusercontent.com/dev-matheusfelipe/dev-matheusfelipe/main/assets/preview-linkup.png" style="border-radius: 12px; border: 1px solid #1f2937;" alt="LinkUp Preview" />
+</a>
+
+<p><strong style="font-size: 16px;">LinkUp</strong></p>
+
+<p>
+Networking platform focused on relevance, context and meaningful connections.
+</p>
+
+<p>
+<a href="https://rizzer-link-up.vercel.app"><strong>Visit project →</strong></a>
+</p>
+
 </td>
+
 <td width="50%" valign="top">
-  <a href="https://rizzer-workspaceti.web.app">
-    <img src="https://raw.githubusercontent.com/dev-matheusfelipe/dev-matheusfelipe/main/assets/preview-workspace-ti.png" alt="Workspace TI Preview" />
-  </a>
-  <br><br>
-  <strong>Workspace TI</strong>
-  <br>
-  Platform focused on opportunities, workflows and structured management.
-  <br><br>
-  <a href="https://rizzer-workspaceti.web.app"><strong>Visit project →</strong></a>
+
+<a href="https://rizzer-workspaceti.web.app">
+  <img src="https://raw.githubusercontent.com/dev-matheusfelipe/dev-matheusfelipe/main/assets/preview-workspace-ti.png" style="border-radius: 12px; border: 1px solid #1f2937;" alt="Workspace TI Preview" />
+</a>
+
+<p><strong style="font-size: 16px;">Workspace TI</strong></p>
+
+<p>
+Platform for managing opportunities, workflows and structured operations.
+</p>
+
+<p>
+<a href="https://rizzer-workspaceti.web.app"><strong>Visit project →</strong></a>
+</p>
+
 </td>
 </tr>
 </table>
+
+## Additional Work
+
+**Rizzer Chatbot**  
+Embeddable chatbot platform with dashboard and public widget integration.
 
 <br>
 
